@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://wgh.770122.xyz/"
+    "link": "https://blog.770122.xyz/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://alist.770122.xyz:16666/"
+    "link": "https://alist.770122.xyz:66/"
   },
   {
     "icon": "CompactDisc",
@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "视频",
-    "link": "https://tvbox.770122.xyz:16666/"
+    "link": "https://tvbox.770122.xyz:66/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.770122.xyz:16666/"
+    "link": "https://web.770122.xyz:66/"
   },
   {
     "icon": "Fire",
@@ -32,6 +32,6 @@
   {
     "icon": "LaptopCode",
     "name": "个人图书",
-    "link": "https://book.770122.xyz:16666/"
+    "link": "https://book.770122.xyz:66/"
   }
 ]
