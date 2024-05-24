@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.770122.xyz:66/"
   },
   {
     "icon": "Compass",
@@ -21,7 +21,7 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "个人图书",
     "link": "https://web.770122.xyz:66/"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "个人图书",
+    "name": "网址集",
     "link": "https://book.770122.xyz:66/"
   }
 ]
