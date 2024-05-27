@@ -2,13 +2,13 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
+    "tip": "区块链博客",
     "url": "https://blog.770122.xyz/"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
+    "tip": "今日头条个人空间",
     "url": "https://www.toutiao.com/c/user/token/MS4wLjABAAAAig3b3fVIProJdc_YcIImZpSiD9dGsxXi0vJdiO3ekjU/?source=list&log_from=1672faef024a7_1716541986600/"
   },
   {
@@ -26,13 +26,13 @@
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
+    "tip": "抖音个人空间",
     "url": "https://www.douyin.com/user/MS4wLjABAAAAfFfn4Tk2NcBsdc0FHBEKAfbn2KbT_Azsne8YyA5cadM"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "tip": "个人AI工具",
+    "url": "https://ai.770122.xyz/"
   }
 ]
