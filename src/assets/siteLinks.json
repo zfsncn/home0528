@@ -19,10 +19,10 @@
     "name": "视频",
     "link": "https://tvbox.770122.xyz:66/"
   },
-  {
-    "icon": "Book",
-    "name": "个人图书",
-    "link": "https://book.770122.xyz:66/"
+   {
+    "icon": "CompactDisc",
+    "name": "OpenAI",
+    "link": "https://ai.770122.xyz/"
   },
   {
     "icon": "Fire",
@@ -53,6 +53,12 @@
     "icon": "CompactDisc",
     "name": "GoogleAI",
     "link": "https://wghai.770122.xyz/"
+  },
+  
+  {
+    "icon": "Book",
+    "name": "个人图书",
+    "link": "https://book.770122.xyz:66/"
   },
    {
     "icon": "CompactDisc",
