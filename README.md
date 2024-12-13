@@ -1,5 +1,7 @@
 简体中文 | [English](./README_EN.md)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/zfsncn/home1213)
+
 <p>
 <strong><h2>無名の主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
