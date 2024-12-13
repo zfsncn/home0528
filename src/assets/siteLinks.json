@@ -11,18 +11,18 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.770122.xyz:66/"
+    "name": "LobeChat",
+    "link": "https://lobe.20060123.xyz/chat/"
   },
   {
     "icon": "Compass",
-    "name": "视频",
-    "link": "https://tvbox.770122.xyz:66/"
+    "name": "ChatGPT",
+    "link": "https://chat.20060123.xyz/"
   },
    {
     "icon": "CompactDisc",
-    "name": "OpenAI",
-    "link": "https://ai.770122.xyz/"
+    "name": "文生图",
+    "link": "http://flux.20060123.xyz/"
   },
   {
     "icon": "Fire",
